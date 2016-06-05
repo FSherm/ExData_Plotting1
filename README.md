@@ -1,3 +1,15 @@
+## To run plots
+This code utilizes the sqldf package to read in the file. To install this package run:
+<i>install.packages("sqldf")</i>
+
+* Plot 1: type <i>plot1()</i>
+
+* Plot 2: type <i>runplot2()</i>
+
+* Plot 3: type <i>runplot3()</i>
+
+* Plot 4 : type <i>plot4()</i>
+
 ## Introduction
 
 This assignment uses data from
